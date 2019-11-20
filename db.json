@@ -1,0 +1,935 @@
+[
+  {
+     "id":"0",
+     "type":"flight",
+     "date_from":1574091042571,
+     "date_to":1574152707894,
+     "destination":{
+        "name":"Geneva",
+        "description":"Geneva, in a middle of Europe, with an embankment of a mighty river as a centre of attraction, full of of cozy canteens where you can try the best coffee in the Middle East, a perfect place to stay with a family, famous for its crowded street markets with the best street food in Asia.",
+        "pictures":[
+           {
+              "src":"http://picsum.photos/300/200?r=0.7131838569781856",
+              "description":"Geneva city centre"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.1884598616400892",
+              "description":"Geneva biggest supermarket"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.9658388856299167",
+              "description":"Geneva central station"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.9317817622666034",
+              "description":"Geneva embankment"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.4255115853739899",
+              "description":"Geneva zoo"
+           }
+        ]
+     },
+     "base_price":500,
+     "is_favorite":false,
+     "offers":[
+        {
+           "title":"Choose seats",
+           "price":170,
+           "accepted":false
+        }
+     ]
+  },
+  {
+     "id":"1",
+     "type":"flight",
+     "date_from":1574152707894,
+     "date_to":1574164745804,
+     "destination":{
+        "name":"Geneva",
+        "description":"Geneva, a true asian pearl, with crowded streets, with a beautiful old town, with an embankment of a mighty river as a centre of attraction, famous for its crowded street markets with the best street food in Asia.",
+        "pictures":[
+           {
+              "src":"http://picsum.photos/300/200?r=0.9087955214441308",
+              "description":"Geneva central station"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.5009730768522003",
+              "description":"Geneva park"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.1337095338136307",
+              "description":"Geneva city centre"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.955903874631977",
+              "description":"Geneva park"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.08349674949411301",
+              "description":"Geneva zoo"
+           }
+        ]
+     },
+     "base_price":800,
+     "is_favorite":true,
+     "offers":[
+        {
+           "title":"Add luggage",
+           "price":170,
+           "accepted":true
+        }
+     ]
+  },
+  {
+     "id":"2",
+     "type":"transport",
+     "date_from":1574164745804,
+     "date_to":1574194023668,
+     "destination":{
+        "name":"Valencia",
+        "description":"Valencia, for those who value comfort and coziness, with an embankment of a mighty river as a centre of attraction, a perfect place to stay with a family.",
+        "pictures":[
+           {
+              "src":"http://picsum.photos/300/200?r=0.6813396348406142",
+              "description":"Valencia street market"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.06131527474067422",
+              "description":"Valencia parliament building"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.6779971557284827",
+              "description":"Valencia biggest supermarket"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.09733853399856462",
+              "description":"Valencia parliament building"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.254850180738061",
+              "description":"Valencia biggest supermarket"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.31496128816388236",
+              "description":"Valencia embankment"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.8069146697933867",
+              "description":"Valencia kindergarten"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.6132172673121496",
+              "description":"Valencia central station"
+           }
+        ]
+     },
+     "base_price":1100,
+     "is_favorite":true,
+     "offers":[
+
+     ]
+  },
+  {
+     "id":"3",
+     "type":"ship",
+     "date_from":1574194023668,
+     "date_to":1574219923474,
+     "destination":{
+        "name":"Monaco",
+        "description":"Monaco, with crowded streets, in a middle of Europe, with a beautiful old town, for those who value comfort and coziness, famous for its crowded street markets with the best street food in Asia.",
+        "pictures":[
+           {
+              "src":"http://picsum.photos/300/200?r=0.07312954490020163",
+              "description":"Monaco embankment"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.21754860656641006",
+              "description":"Monaco kindergarten"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.5558406012799741",
+              "description":"Monaco kindergarten"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.8350129504386072",
+              "description":"Monaco zoo"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.5099355127028351",
+              "description":"Monaco kindergarten"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.005216986325221162",
+              "description":"Monaco embankment"
+           }
+        ]
+     },
+     "base_price":700,
+     "is_favorite":false,
+     "offers":[
+        {
+           "title":"Upgrade to business class",
+           "price":40,
+           "accepted":false
+        }
+     ]
+  },
+  {
+     "id":"4",
+     "type":"transport",
+     "date_from":1574219923474,
+     "date_to":1574246558389,
+     "destination":{
+        "name":"Frankfurt",
+        "description":"Frankfurt, is a beautiful city, middle-eastern paradise, a perfect place to stay with a family.",
+        "pictures":[
+           {
+              "src":"http://picsum.photos/300/200?r=0.22221643633868693",
+              "description":"Frankfurt embankment"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.17205201317080632",
+              "description":"Frankfurt central station"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.1266148642802627",
+              "description":"Frankfurt city centre"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.5292853669577526",
+              "description":"Frankfurt biggest supermarket"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.6338014501905029",
+              "description":"Frankfurt street market"
+           }
+        ]
+     },
+     "base_price":300,
+     "is_favorite":true,
+     "offers":[
+
+     ]
+  },
+  {
+     "id":"5",
+     "type":"transport",
+     "date_from":1574246558389,
+     "date_to":1574322329944,
+     "destination":{
+        "name":"Oslo",
+        "description":"Oslo, a true asian pearl, in a middle of Europe, middle-eastern paradise, with an embankment of a mighty river as a centre of attraction.",
+        "pictures":[
+           {
+              "src":"http://picsum.photos/300/200?r=0.680163624554148",
+              "description":"Oslo biggest supermarket"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.3518849362687886",
+              "description":"Oslo embankment"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.4954679543268452",
+              "description":"Oslo zoo"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.1244046618595962",
+              "description":"Oslo street market"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.3616816163382015",
+              "description":"Oslo biggest supermarket"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.1563809633365536",
+              "description":"Oslo kindergarten"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.4005345072700819",
+              "description":"Oslo central station"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.22360935866369314",
+              "description":"Oslo parliament building"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.5121283301604544",
+              "description":"Oslo parliament building"
+           }
+        ]
+     },
+     "base_price":600,
+     "is_favorite":true,
+     "offers":[
+
+     ]
+  },
+  {
+     "id":"6",
+     "type":"check-in",
+     "date_from":1574322329944,
+     "date_to":1574332834705,
+     "destination":{
+        "name":"Rome",
+        "description":"Rome, is a beautiful city, middle-eastern paradise, for those who value comfort and coziness.",
+        "pictures":[
+           {
+              "src":"http://picsum.photos/300/200?r=0.12083129347508259",
+              "description":"Rome street market"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.8705788652212081",
+              "description":"Rome park"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.15302223066220866",
+              "description":"Rome embankment"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.6762164739175516",
+              "description":"Rome kindergarten"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.017948758519306773",
+              "description":"Rome zoo"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.3791891137813388",
+              "description":"Rome central station"
+           }
+        ]
+     },
+     "base_price":600,
+     "is_favorite":true,
+     "offers":[
+        {
+           "title":"Choose the time of check-out",
+           "price":170,
+           "accepted":true
+        },
+        {
+           "title":"Choose the time of check-in",
+           "price":180,
+           "accepted":false
+        }
+     ]
+  },
+  {
+     "id":"7",
+     "type":"restaurant",
+     "date_from":1574332834705,
+     "date_to":1574357152822,
+     "destination":{
+        "name":"Munich",
+        "description":"Munich, in a middle of Europe, with an embankment of a mighty river as a centre of attraction, a perfect place to stay with a family, famous for its crowded street markets with the best street food in Asia.",
+        "pictures":[
+           {
+              "src":"http://picsum.photos/300/200?r=0.29502702164215",
+              "description":"Munich parliament building"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.9558565969747033",
+              "description":"Munich biggest supermarket"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.4853098964634437",
+              "description":"Munich parliament building"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.8858711688073491",
+              "description":"Munich embankment"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.6984333060078753",
+              "description":"Munich central station"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.8796824511951027",
+              "description":"Munich central station"
+           }
+        ]
+     },
+     "base_price":400,
+     "is_favorite":false,
+     "offers":[
+
+     ]
+  },
+  {
+     "id":"8",
+     "type":"check-in",
+     "date_from":1574357152822,
+     "date_to":1574372494051,
+     "destination":{
+        "name":"Naples",
+        "description":"Naples, a true asian pearl, in a middle of Europe, full of of cozy canteens where you can try the best coffee in the Middle East, a perfect place to stay with a family.",
+        "pictures":[
+           {
+              "src":"http://picsum.photos/300/200?r=0.8572265766027944",
+              "description":"Naples embankment"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.5924777138060777",
+              "description":"Naples biggest supermarket"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.9491759689945516",
+              "description":"Naples park"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.4220944536684661",
+              "description":"Naples parliament building"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.3011791357999394",
+              "description":"Naples embankment"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.3430710064144522",
+              "description":"Naples parliament building"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.9619000025272197",
+              "description":"Naples park"
+           }
+        ]
+     },
+     "base_price":400,
+     "is_favorite":true,
+     "offers":[
+        {
+           "title":"Laundry",
+           "price":40,
+           "accepted":false
+        }
+     ]
+  },
+  {
+     "id":"9",
+     "type":"train",
+     "date_from":1574372494051,
+     "date_to":1574416172034,
+     "destination":{
+        "name":"Barcelona",
+        "description":"Barcelona, with a beautiful old town, full of of cozy canteens where you can try the best coffee in the Middle East, a perfect place to stay with a family.",
+        "pictures":[
+           {
+              "src":"http://picsum.photos/300/200?r=0.3270576416802373",
+              "description":"Barcelona zoo"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.10437401519468215",
+              "description":"Barcelona street market"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.2732519703386582",
+              "description":"Barcelona street market"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.560116216473634",
+              "description":"Barcelona central station"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.5144073150360555",
+              "description":"Barcelona street market"
+           }
+        ]
+     },
+     "base_price":1000,
+     "is_favorite":false,
+     "offers":[
+        {
+           "title":"Order a breakfast",
+           "price":130,
+           "accepted":true
+        }
+     ]
+  },
+  {
+     "id":"10",
+     "type":"check-in",
+     "date_from":1574416172034,
+     "date_to":1574453639407,
+     "destination":{
+        "name":"Den Haag",
+        "description":"Den Haag, a true asian pearl, with crowded streets.",
+        "pictures":[
+           {
+              "src":"http://picsum.photos/300/200?r=0.5080106453151099",
+              "description":"Den Haag park"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.5226754555366508",
+              "description":"Den Haag kindergarten"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.9994668846303809",
+              "description":"Den Haag central station"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.277124977153018",
+              "description":"Den Haag kindergarten"
+           }
+        ]
+     },
+     "base_price":1100,
+     "is_favorite":true,
+     "offers":[
+        {
+           "title":"Choose the time of check-out",
+           "price":150,
+           "accepted":true
+        },
+        {
+           "title":"Order a meal from the restaurant",
+           "price":190,
+           "accepted":false
+        }
+     ]
+  },
+  {
+     "id":"11",
+     "type":"drive",
+     "date_from":1574453639407,
+     "date_to":1574534839337,
+     "destination":{
+        "name":"Helsinki",
+        "description":"Helsinki, a perfect place to stay with a family.",
+        "pictures":[
+           {
+              "src":"http://picsum.photos/300/200?r=0.4533390065614946",
+              "description":"Helsinki street market"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.07468333019926354",
+              "description":"Helsinki city centre"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.31952698096364185",
+              "description":"Helsinki central station"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.27451405010183527",
+              "description":"Helsinki embankment"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.9742794838728355",
+              "description":"Helsinki zoo"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.5323071779810131",
+              "description":"Helsinki park"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.6140214626134772",
+              "description":"Helsinki parliament building"
+           }
+        ]
+     },
+     "base_price":800,
+     "is_favorite":false,
+     "offers":[
+        {
+           "title":"Choose business class",
+           "price":100,
+           "accepted":true
+        },
+        {
+           "title":"Choose comfort class",
+           "price":180,
+           "accepted":false
+        }
+     ]
+  },
+  {
+     "id":"12",
+     "type":"sightseeing",
+     "date_from":1574534839337,
+     "date_to":1574596720911,
+     "destination":{
+        "name":"Helsinki",
+        "description":"Helsinki, a true asian pearl, a perfect place to stay with a family, famous for its crowded street markets with the best street food in Asia.",
+        "pictures":[
+           {
+              "src":"http://picsum.photos/300/200?r=0.1937130974902257",
+              "description":"Helsinki park"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.6057271574865493",
+              "description":"Helsinki city centre"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.8979441559532255",
+              "description":"Helsinki city centre"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.46818939551679883",
+              "description":"Helsinki zoo"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.6644293205695817",
+              "description":"Helsinki kindergarten"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.6483416864946667",
+              "description":"Helsinki central station"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.10746942346273647",
+              "description":"Helsinki central station"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.9154378970488388",
+              "description":"Helsinki embankment"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.640885251971149",
+              "description":"Helsinki biggest supermarket"
+           }
+        ]
+     },
+     "base_price":300,
+     "is_favorite":true,
+     "offers":[
+
+     ]
+  },
+  {
+     "id":"13",
+     "type":"sightseeing",
+     "date_from":1574596720911,
+     "date_to":1574648720463,
+     "destination":{
+        "name":"Saint Petersburg",
+        "description":"Saint Petersburg, is a beautiful city, in a middle of Europe.",
+        "pictures":[
+           {
+              "src":"http://picsum.photos/300/200?r=0.9545849160127917",
+              "description":"Saint Petersburg embankment"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.336853976343368",
+              "description":"Saint Petersburg parliament building"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.819848928407211",
+              "description":"Saint Petersburg street market"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.5071859762967588",
+              "description":"Saint Petersburg kindergarten"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.8930935025664897",
+              "description":"Saint Petersburg embankment"
+           }
+        ]
+     },
+     "base_price":500,
+     "is_favorite":true,
+     "offers":[
+
+     ]
+  },
+  {
+     "id":"14",
+     "type":"train",
+     "date_from":1574648720463,
+     "date_to":1574727886704,
+     "destination":{
+        "name":"Amsterdam",
+        "description":"Amsterdam, a true asian pearl, with crowded streets, in a middle of Europe, middle-eastern paradise, for those who value comfort and coziness.",
+        "pictures":[
+           {
+              "src":"http://picsum.photos/300/200?r=0.25491604983166516",
+              "description":"Amsterdam park"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.3455810379650588",
+              "description":"Amsterdam central station"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.7783166286377812",
+              "description":"Amsterdam zoo"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.37844725095750453",
+              "description":"Amsterdam park"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.687069228151616",
+              "description":"Amsterdam embankment"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.8143983826299186",
+              "description":"Amsterdam central station"
+           }
+        ]
+     },
+     "base_price":600,
+     "is_favorite":true,
+     "offers":[
+        {
+           "title":"Wake up at a certain time",
+           "price":190,
+           "accepted":true
+        },
+        {
+           "title":"Book a taxi at the arrival point",
+           "price":130,
+           "accepted":false
+        },
+        {
+           "title":"Order a breakfast",
+           "price":160,
+           "accepted":false
+        }
+     ]
+  },
+  {
+     "id":"15",
+     "type":"check-in",
+     "date_from":1574727886704,
+     "date_to":1574802454466,
+     "destination":{
+        "name":"Vien",
+        "description":"Vien, for those who value comfort and coziness.",
+        "pictures":[
+           {
+              "src":"http://picsum.photos/300/200?r=0.6490286860135974",
+              "description":"Vien parliament building"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.14027373532760334",
+              "description":"Vien street market"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.08634996136014861",
+              "description":"Vien city centre"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.2490641719586677",
+              "description":"Vien parliament building"
+           }
+        ]
+     },
+     "base_price":800,
+     "is_favorite":false,
+     "offers":[
+        {
+           "title":"Order a meal from the restaurant",
+           "price":160,
+           "accepted":false
+        },
+        {
+           "title":"Choose the time of check-out",
+           "price":30,
+           "accepted":false
+        },
+        {
+           "title":"Choose the time of check-in",
+           "price":70,
+           "accepted":false
+        }
+     ]
+  },
+  {
+     "id":"16",
+     "type":"drive",
+     "date_from":1574802454466,
+     "date_to":1574845417980,
+     "destination":{
+        "name":"Moscow",
+        "description":"Moscow, with a beautiful old town, middle-eastern paradise.",
+        "pictures":[
+           {
+              "src":"http://picsum.photos/300/200?r=0.5480842843161742",
+              "description":"Moscow city centre"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.38071148058338844",
+              "description":"Moscow parliament building"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.5906898240623923",
+              "description":"Moscow zoo"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.2543584840710753",
+              "description":"Moscow kindergarten"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.11990663832323722",
+              "description":"Moscow zoo"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.04749782755212295",
+              "description":"Moscow central station"
+           }
+        ]
+     },
+     "base_price":800,
+     "is_favorite":false,
+     "offers":[
+        {
+           "title":"Choose comfort class",
+           "price":110,
+           "accepted":true
+        },
+        {
+           "title":"Choose business class",
+           "price":140,
+           "accepted":true
+        }
+     ]
+  },
+  {
+     "id":"17",
+     "type":"train",
+     "date_from":1574845417980,
+     "date_to":1574879520021,
+     "destination":{
+        "name":"Geneva",
+        "description":"Geneva, is a beautiful city, a true asian pearl, in a middle of Europe, middle-eastern paradise, for those who value comfort and coziness, with an embankment of a mighty river as a centre of attraction.",
+        "pictures":[
+           {
+              "src":"http://picsum.photos/300/200?r=0.92138199546494",
+              "description":"Geneva city centre"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.6972692641467342",
+              "description":"Geneva kindergarten"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.038025653972215245",
+              "description":"Geneva parliament building"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.6592759511963151",
+              "description":"Geneva zoo"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.7512013680952754",
+              "description":"Geneva kindergarten"
+           }
+        ]
+     },
+     "base_price":900,
+     "is_favorite":false,
+     "offers":[
+        {
+           "title":"Book a taxi at the arrival point",
+           "price":90,
+           "accepted":true
+        },
+        {
+           "title":"Order a breakfast",
+           "price":80,
+           "accepted":true
+        }
+     ]
+  },
+  {
+     "id":"18",
+     "type":"ship",
+     "date_from":1574879520021,
+     "date_to":1574929184615,
+     "destination":{
+        "name":"Saint Petersburg",
+        "description":"Saint Petersburg, is a beautiful city, with crowded streets, famous for its crowded street markets with the best street food in Asia.",
+        "pictures":[
+           {
+              "src":"http://picsum.photos/300/200?r=0.6729568907676873",
+              "description":"Saint Petersburg park"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.8585318266897874",
+              "description":"Saint Petersburg zoo"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.4868325461945484",
+              "description":"Saint Petersburg biggest supermarket"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.4439462601736175",
+              "description":"Saint Petersburg city centre"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.7098492188448147",
+              "description":"Saint Petersburg biggest supermarket"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.6162915679273449",
+              "description":"Saint Petersburg city centre"
+           }
+        ]
+     },
+     "base_price":800,
+     "is_favorite":true,
+     "offers":[
+        {
+           "title":"Upgrade to comfort class",
+           "price":50,
+           "accepted":true
+        },
+        {
+           "title":"Upgrade to business class",
+           "price":170,
+           "accepted":false
+        },
+        {
+           "title":"Add luggage",
+           "price":180,
+           "accepted":true
+        }
+     ]
+  },
+  {
+     "id":"19",
+     "type":"train",
+     "date_from":1574929184615,
+     "date_to":1574941582441,
+     "destination":{
+        "name":"Tokio",
+        "description":"Tokio, is a beautiful city, in a middle of Europe, with an embankment of a mighty river as a centre of attraction, full of of cozy canteens where you can try the best coffee in the Middle East.",
+        "pictures":[
+           {
+              "src":"http://picsum.photos/300/200?r=0.13201768506167677",
+              "description":"Tokio embankment"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.35496285621244983",
+              "description":"Tokio parliament building"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.8469223098899779",
+              "description":"Tokio zoo"
+           },
+           {
+              "src":"http://picsum.photos/300/200?r=0.7821011464745042",
+              "description":"Tokio street market"
+           }
+        ]
+     },
+     "base_price":900,
+     "is_favorite":false,
+     "offers":[
+        {
+           "title":"Book a taxi at the arrival point",
+           "price":80,
+           "accepted":false
+        },
+        {
+           "title":"Wake up at a certain time",
+           "price":170,
+           "accepted":false
+        },
+        {
+           "title":"Order a breakfast",
+           "price":90,
+           "accepted":false
+        }
+     ]
+  }
+]
